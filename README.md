@@ -18,4 +18,4 @@ This project is a Todo List application built with React.js, aimed at helping us
 
 ## Demo
 
-Explore the project live [https://sarbajit-itodo.netlify.app/](#) and manage your daily tasks with ease!
+Explore the project live [here](https://sarbajit-itodo.netlify.app/) and manage your daily tasks with ease!
